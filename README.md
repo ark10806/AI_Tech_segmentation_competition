@@ -1,1 +1,1 @@
-# AI_Teck_segmentation_competition
+# AI_Tech_segmentation_competition
